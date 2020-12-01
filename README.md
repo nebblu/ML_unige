@@ -6,7 +6,7 @@ The 2020/2021 meetings can be downloaded here: https://www.dropbox.com/sh/op1w7i
 
 ## Key Contributors : 
 
-Michele Mancarella, Joseph Kennedy, David Lous Daverio and Benjamin Bose. 
+Michele Mancarella, David Lous Daverio and Benjamin Bose. 
 
 ### Basic setup for Apple/Mac computer with conda
 
