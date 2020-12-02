@@ -8,6 +8,10 @@ The 2020/2021 meetings can be downloaded here: https://www.dropbox.com/sh/op1w7i
 
 Michele Mancarella, David Lous Daverio and Benjamin Bose. 
 
+## Material : 
+
+The material in the repo has been developed by the contributors with the exception of the Python_tutorials/NN_from_scratch notebooks, which have been adapted from Andrew Ng's Deep Learning Coursera course. 
+
 ### Basic setup for Apple/Mac computer with conda
 
 The requirements to run the jupyter notebooks are in the file requirements.txt. Have them installed ! 
