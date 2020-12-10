@@ -6,7 +6,7 @@ The 2020/2021 meetings can be downloaded here: https://www.dropbox.com/sh/op1w7i
 
 ## Key Contributors : 
 
-Michele Mancarella, David Lous Daverio and Benjamin Bose. 
+Michele Mancarella and Benjamin Bose. 
 
 ## Material : 
 
