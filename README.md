@@ -1,6 +1,6 @@
 ## ML tutorials - UniGe Cosmology Group
 
-This repo contains tutorials for the ML meeting of the cosmology group at the University of Geneva. Please contact benjamin.bose@unige.ch for more information on how to join tutorial sessions or if you have general questions. 
+This repo contains tutorials for the ML meeting of the cosmology group at the University of Geneva. Please contact ben.bose@ed.ac.uk for more information on how to join tutorial sessions or if you have general questions. 
 
 The 2020/2021 meetings can be downloaded here: https://www.dropbox.com/sh/op1w7i495il8v38/AABw5HPY46HOfbPQWrDAxDFpa?dl=0 
 
